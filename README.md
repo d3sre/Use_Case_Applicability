@@ -21,6 +21,15 @@ Suggested KPIs, as presented at HACK.LU 2019 are:
 
 The full slides will be published end of November 2019, the Video recording already can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
 
+## Authors and acknowledgment
+This paper was written by [Desiree Sacher](www.twitter.com/d3sre)
+
+Thank you for initially trialing the idea:
+Christoph Weber and Michael Kurth 
+
+Thank you to everyone who proof read it before publication:
+Raphaël Vinot, Corsin Camichel, Eireann Leverett, Florian Roth, Ian Amit, Meline Sieber, Frank Boldewin, Jochen Raymaekers, Francesco Picasso and Amanda Berlin 
+
 ## Licence
 The paper was published under Creative Commons BY License: https://creativecommons.org/licenses/by/4.0/
 
