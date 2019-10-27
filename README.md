@@ -22,7 +22,7 @@ Suggested KPIs, as presented at HACK.LU 2019 are:
 The full slides will be published end of November 2019, the Video recording already can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
 
 ## Authors and acknowledgment
-This paper was written by [Desiree Sacher](www.twitter.com/d3sre)
+This paper was written by [Desiree Sacher](http://www.twitter.com/d3sre)
 
 Thank you for initially trialing the idea:
 Christoph Weber and Michael Kurth 
