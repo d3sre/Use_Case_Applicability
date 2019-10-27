@@ -1,5 +1,4 @@
 # Use Case Applicability: How to better integrate Continuous Improvement into Security Monitoring
--------------------------------------------------------------------------------------------------
 
 ![logo](FingerpointingLogo.png "Active Cyber Defenders")
 
