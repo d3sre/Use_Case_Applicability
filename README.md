@@ -24,6 +24,8 @@ Before FIRST, there also was a podcast published where I could talk to Chris Joh
 
 FIRST gave me the opportunity to have the paper published in an ACM DTRAP special journal edition, this peer reviewed version can be found here: https://dl.acm.org/doi/10.1145/3370084
 
+Frequently asked questions and a collection of KPIs have been collected over in the wiki: https://github.com/d3sre/Use_Case_Applicability/wiki/Frequently-Asked-Questions
+
 ## Authors and acknowledgment
 This paper was written by [Desiree Sacher](http://www.twitter.com/d3sre)
 
