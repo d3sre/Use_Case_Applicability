@@ -18,9 +18,11 @@ Suggested KPIs, as presented at HACK.LU 2019 are:
  Number of Confirmed Attack attempt with IR actions (best matched with Log Source Category) | Very high numbers → Security Architecture should be updated <br> Very low numbers → The rules aren‘t detecting or you are safe | :) 
 
 
-The full slides will be published end of November 2019, the Video recording already can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
+The full slides can be found in this repository, the Video recording can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
 
 Before FIRST, there also was a podcast published where I could talk to Chris John Riley about this taxonomy and the thoughts behind. This recording can be found here: https://media.first.org/podcasts/FIRST2019-DesireeSacher.mp3
+
+FIRST gave me the opportunity to have the paper published in an ACM DTRAP special journal edition, this peer reviewed version can be found here: https://dl.acm.org/doi/10.1145/3370084
 
 ## Authors and acknowledgment
 This paper was written by [Desiree Sacher](http://www.twitter.com/d3sre)
