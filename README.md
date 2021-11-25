@@ -11,11 +11,11 @@ Suggested KPIs, as presented at HACK.LU 2019 are:
 
  KPI | Explanation | Target Value | Owner | Business Impact
  :-------------------------- |:----------------------------------------------------| :----- | :----- | :---------------:
- Number of Log Management Rule Configuration Error events per month | This value reflects the rules configured in the SIEM by the SOC Analysts. A high number suspects bad quality of rules, more training or experience needed. | < 10 % |    |
- Number of Announced Administrative/User Action events per month | This value reflects suppressions that should be improved. | < 10 % |    |
- Number of Bad IOC/rule pattern value events per month | If too many events were created by bad IOCs or rule pattern values, the source or the trust in it should be questioned. | < 5 % |    |
- Number of Confirmed Attack attempt without IR actions (best matched with Log Source Category) | Number of events detected but prevented by measures in place or where the alert isn’t viewed as a high risk. | > 50 % |    |
- Number of Confirmed Attack attempt with IR actions (best matched with Log Source Category) | Very high numbers → Security Architecture should be updated <br> Very low numbers → The rules aren‘t detecting or you are safe | :) |    |
+ Number of Log Management Rule Configuration Error events per month | This value reflects the rules configured in the SIEM by the SOC Analysts. A high number suspects bad quality of rules, more training or experience needed. | < 10 % | Compliance/ Operational   | SOC Operational risk
+ Number of Announced Administrative/User Action events per month | This value reflects suppressions that should be improved. | < 10 % |  Operational/ Contractual  | Operational Risk management
+ Number of Bad IOC/rule pattern value events per month | If too many events were created by bad IOCs or rule pattern values, the source or the trust in it should be questioned. | < 5 % |  Compliance/ Operational  | SOC Operational risk
+ Number of Confirmed Attack attempt without IR actions (best matched with Log Source Category) | Number of events detected but prevented by measures in place or where the alert isn’t viewed as a high risk. | > 50 % |  Policy/Operational/Contractual  | Potentially Poor Risk Acceptance Practices
+ Number of Confirmed Attack attempt with IR actions (best matched with Log Source Category) | Very high numbers → Security Architecture should be updated <br> Very low numbers → The rules aren‘t detecting or you are safe | :) |  Policy  | Potential intrusion/Prioritise investigation
 
 
 The full slides can be found in this repository, the Video recording can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
